@@ -1,4 +1,4 @@
-let day=7;
+let day=11;
 switch (day){
     case 1:
         console.log(`Monday`)
@@ -21,4 +21,6 @@ switch (day){
     case 7:
         console.log(`Sunday`)
         break;
+    default:
+        console.log(`Not a Day`)
 }

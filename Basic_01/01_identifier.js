@@ -12,7 +12,13 @@ c=a+b;
 console.log(c);//console is an identifier
 //log is an identifier
 //Variable name=Identifier a (name whihc is given to a containe)
-
+console.log(5 == '5')
+console.log('5' - 3)
+console.log(true + true)
+console.log(0 ?? 'hello')
+if ('') { console.log('yes'); } else { console.log('no')};4
+console.log(Boolean([]))
+for (let i = 0; i < 5; i++) { if (i === 3) break; } console.log(i);
 //Variable value =literal 10 (value which is stored in a container)
 
 var Name="Ajay";
